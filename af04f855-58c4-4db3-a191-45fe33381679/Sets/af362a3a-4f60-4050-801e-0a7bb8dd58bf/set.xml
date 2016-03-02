@@ -1458,7 +1458,7 @@ Combat Action: Exhaust this attachment to move attached unit to a planet with a 
 		</card>
 		<card id="3952f04d-dfa5-4443-8da0-7fdc48748f12" name="Sae'lum Enclave">
 			<property name="Faction"        value="Tau"/>
-			<property name="Type"           value="Soutien"/>
+			<property name="Type"           value="Support"/>
 			<property name="Loyalty"        value="Loyal"/>
 			<property name="Traits"         value="Location."/>
 			<property name="Text"           value="Interrupt: When you deploy a non-K unit, exhaust this support to reduce that unit's cost by 2."/>
